@@ -1,0 +1,29 @@
+
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.announcement {
+    background-color:dodgerblue
+}
+
+.map {
+    align-content: center;
+}
+
+body {
+    text-align:center;
+}
